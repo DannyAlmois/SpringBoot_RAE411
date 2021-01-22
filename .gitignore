@@ -31,3 +31,26 @@ build/
 
 ### VS Code ###
 .vscode/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+src/main/java/com/example/sbsecurity/config/WebSecurityConfig.java
+src/main/java/com/example/sbsecurity/controller/MainController.java
+src/main/java/com/example/sbsecurity/dao/AppRoleDAO.java
+src/main/java/com/example/sbsecurity/dao/AppUserDAO.java
+src/main/java/com/example/sbsecurity/entity/AppRole.java
+src/main/java/com/example/sbsecurity/entity/AppUser.java
+src/main/java/com/example/sbsecurity/entity/UserRole.java
+src/main/java/com/example/sbsecurity/service/UserDetailsServiceImpl.java
+src/main/java/com/example/sbsecurity/SpringBootSecurityJpaApplication.java
+src/main/java/com/example/sbsecurity/utils/EncrytedPasswordUtils.java
+src/main/java/com/example/sbsecurity/utils/WebUtils.java
+src/main/resources/application.properties
+src/main/resources/templates/403Page.html
+src/main/resources/templates/_menu.html
+src/main/resources/templates/adminPage.html
+src/main/resources/templates/loginPage.html
+src/main/resources/templates/logoutSuccessfulPage.html
+src/main/resources/templates/userInfoPage.html
+src/main/resources/templates/welcomePage.html
+src/test/java/com/example/sbsecurity/SpringBootSecurityJpaApplicationTests.java
